@@ -1,0 +1,1596 @@
+[
+    {
+        "id": 1,
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Rome"],
+        "answer": "Paris",
+        "difficulty": "easy"
+    },
+    {
+        "id": 2,
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+        "answer": "Pacific",
+        "difficulty": "easy"
+    },
+    {
+        "id": 3,
+        "question": "What is the chemical symbol for water?",
+        "options": ["H2O", "CO2", "NaCl", "O2"],
+        "answer": "H2O",
+        "difficulty": "easy"
+    },
+    {
+        "id": 4,
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": ["Charles Dickens", "Mark Twain", "William Shakespeare", "Jane Austen"],
+        "answer": "William Shakespeare",
+        "difficulty": "hard"
+    },
+    {
+        "id": 5,
+        "question": "What is the currency of Japan?",
+        "options": ["Yen", "Dollar", "Euro", "Won"],
+        "answer": "Yen",
+        "difficulty": "easy"
+    },
+    {
+        "id": 6,
+        "question": "What is the smallest planet in our solar system?",
+        "options": ["Earth", "Mars", "Mercury", "Venus"],
+        "answer": "Mercury",
+        "difficulty": "easy"
+    },
+    {
+        "id": 7,
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+        "answer": "Carbon Dioxide",
+        "difficulty": "easy"
+    },
+    {
+        "id": 8,
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+        "answer": "Leonardo da Vinci",
+        "difficulty": "hard"
+    },
+    {
+        "id": 9,
+        "question": "What is the hardest natural substance on Earth?",
+        "options": ["Gold", "Iron", "Diamond", "Quartz"],
+        "answer": "Diamond",
+        "difficulty": "hard"
+    },
+    {
+        "id": 10,
+        "question": "What is the largest mammal in the world?",
+        "options": ["Elephant", "Blue Whale", "Giraffe", "Great White Shark"],
+        "answer": "Blue Whale",
+        "difficulty": "easy"
+    },
+    {
+        "id": 11,
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "answer": "Mars",
+        "difficulty": "easy"
+    },
+    {
+        "id": 12,
+        "question": "What is the longest river in the world?",
+        "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+        "answer": "Nile",
+        "difficulty": "easy"
+    },
+    {
+        "id": 13,
+        "question": "Who was the first President of the United States?",
+        "options": ["George Washington", "Abraham Lincoln", "Thomas Jefferson", "John Adams"],
+        "answer": "George Washington",
+        "difficulty": "hard"
+    },
+    {
+        "id": 14,
+        "question": "In which year did World War I begin?",
+        "options": ["1914", "1918", "1939", "1945"],
+        "answer": "1914",
+        "difficulty": "hard"
+    },
+    {
+        "id": 15,
+        "question": "Which element has the chemical symbol 'O'?",
+        "options": ["Oxygen", "Osmium", "Oganesson", "Oxium"],
+        "answer": "Oxygen",
+        "difficulty": "easy"
+    },
+    {
+        "id": 16,
+        "question": "What is the capital city of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+        "answer": "Canberra",
+        "difficulty": "hard"
+    },
+    {
+        "id": 17,
+        "question": "What is the largest desert in the world?",
+        "options": ["Sahara", "Gobi", "Arctic", "Antarctic"],
+        "answer": "Antarctic",
+        "difficulty": "easy"
+    },
+    {
+        "id": 18,
+        "question": "Which country is the origin of the martial art karate?",
+        "options": ["China", "Japan", "South Korea", "Thailand"],
+        "answer": "Japan",
+        "difficulty": "easy"
+    },
+    {
+        "id": 19,
+        "question": "What is the square root of 64?",
+        "options": ["6", "7", "8", "9"],
+        "answer": "8",
+        "difficulty": "easy"
+    },
+    {
+        "id": 20,
+        "question": "In computing, what does CPU stand for?",
+        "options": ["Central Processing Unit", "Computer Power Unit", "Control Process Unit", "Central Power Unit"],
+        "answer": "Central Processing Unit",
+        "difficulty": "easy"
+    },
+    {
+        "id": 21,
+        "question": "What is the chemical symbol for gold?",
+        "options": ["G", "Au", "Ag", "Go"],
+        "answer": "Au",
+        "difficulty": "easy"
+    },
+    {
+        "id": 22,
+        "question": "Which continent is the largest by land area?",
+        "options": ["Africa", "Asia", "North America", "Europe"],
+        "answer": "Asia",
+        "difficulty": "easy"
+    },
+    {
+        "id": 23,
+        "question": "Who developed the theory of general relativity?",
+        "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Marie Curie"],
+        "answer": "Albert Einstein",
+        "difficulty": "hard"
+    },
+    {
+        "id": 24,
+        "question": "What is the boiling point of water at sea level in degrees Celsius?",
+        "options": ["50°C", "90°C", "100°C", "150°C"],
+        "answer": "100°C",
+        "difficulty": "easy"
+    },
+    {
+        "id": 25,
+        "question": "Which famous ship sank in 1912 after hitting an iceberg?",
+        "options": ["Britannic", "Titanic", "Lusitania", "Queen Mary"],
+        "answer": "Titanic",
+        "difficulty": "easy"
+    },
+    {
+        "id": 26,
+        "question": "What is the primary ingredient in guacamole?",
+        "options": ["Tomato", "Avocado", "Onion", "Lettuce"],
+        "answer": "Avocado",
+        "difficulty": "hard"
+    },
+    {
+        "id": 27,
+        "question": "Which planet is closest to the Sun?",
+        "options": ["Earth", "Mars", "Mercury", "Venus"],
+        "answer": "Mercury",
+        "difficulty": "easy"
+    },
+    {
+        "id": 28,
+        "question": "In what year did the Berlin Wall fall?",
+        "options": ["1980", "1989", "1991", "1995"],
+        "answer": "1989",
+        "difficulty": "hard"
+    },
+    {
+        "id": 29,
+        "question": "What is the tallest mountain in the world?",
+        "options": ["K2", "Mount Everest", "Kangchenjunga", "Lhotse"],
+        "answer": "Mount Everest",
+        "difficulty": "hard"
+    },
+    {
+        "id": 30,
+        "question": "Who painted the ceiling of the Sistine Chapel?",
+        "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Donatello"],
+        "answer": "Michelangelo",
+        "difficulty": "hard"
+    },
+    {
+        "id": 31,
+        "question": "What is the capital city of Canada?",
+        "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+        "answer": "Ottawa",
+        "difficulty": "easy"
+    },
+    {
+        "id": 32,
+        "question": "Who invented the telephone?",
+        "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+        "answer": "Alexander Graham Bell",
+        "difficulty": "easy"
+    },
+    {
+        "id": 33,
+        "question": "In which year did World War II end?",
+        "options": ["1941", "1943", "1945", "1950"],
+        "answer": "1945",
+        "difficulty": "easy"
+    },
+    {
+        "id": 34,
+        "question": "What is the most abundant gas in Earth's atmosphere?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+        "answer": "Nitrogen",
+        "difficulty": "easy"
+    },
+    {
+        "id": 35,
+        "question": "What is the longest bone in the human body?",
+        "options": ["Femur", "Tibia", "Humerus", "Radius"],
+        "answer": "Femur",
+        "difficulty": "hard"
+    },
+    {
+        "id": 36,
+        "question": "Which element is known as the 'building block of life'?",
+        "options": ["Carbon", "Hydrogen", "Oxygen", "Nitrogen"],
+        "answer": "Carbon",
+        "difficulty": "hard"
+    },
+    {
+        "id": 37,
+        "question": "What is the most widely spoken language in the world?",
+        "options": ["Spanish", "English", "Mandarin", "Hindi"],
+        "answer": "Mandarin",
+        "difficulty": "hard"
+    },
+    {
+        "id": 38,
+        "question": "Who was the first person to walk on the Moon?",
+        "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Michael Collins"],
+        "answer": "Neil Armstrong",
+        "difficulty": "hard"
+    },
+    {
+        "id": 39,
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": ["China", "Japan", "Thailand", "South Korea"],
+        "answer": "Japan",
+        "difficulty": "hard"
+    },
+    {
+        "id": 40,
+        "question": "What is the capital city of Kenya?",
+        "options": ["Mombasa", "Nairobi", "Kisumu", "Nakuru"],
+        "answer": "Nairobi",
+        "difficulty": "easy"
+    },
+    {
+        "id": 41,
+        "question": "Which river is the longest in Africa?",
+        "options": ["Nile", "Amazon", "Zambezi", "Yangtze"],
+        "answer": "Nile",
+        "difficulty": "medium"
+    },
+    {
+        "id": 42,
+        "question": "What is the national animal of Kenya?",
+        "options": ["Lion", "Elephant", "Giraffe", "Rhino"],
+        "answer": "Lion",
+        "difficulty": "easy"
+    },
+    {
+        "id": 43,
+        "question": "Which famous Kenyan athlete is known for long-distance running?",
+        "options": ["David Rudisha", "Eliud Kipchoge", "Hicham El Guerrouj", "Usain Bolt"],
+        "answer": "Eliud Kipchoge",
+        "difficulty": "easy"
+    },
+    {
+        "id": 44,
+        "question": "What is the official language of Kenya?",
+        "options": ["Swahili", "English", "French", "Kikuyu"],
+        "answer": "English",
+        "difficulty": "easy"
+    },
+    {
+        "id": 45,
+        "question": "Which popular tea is commonly associated with Kenya?",
+        "options": ["Black tea", "Green tea", "Herbal tea", "Oolong tea"],
+        "answer": "Black tea",
+        "difficulty": "easy"
+    },
+    {
+        "id": 46,
+        "question": "What is the currency used in Kenya?",
+        "options": ["Dollar", "Shilling", "Euro", "Pound"],
+        "answer": "Shilling",
+        "difficulty": "easy"
+    },
+    {
+        "id": 47,
+        "question": "Which landmark is a UNESCO World Heritage site in Kenya?",
+        "options": ["Mombasa Fort", "Samburu National Park", "Lake Nakuru", "Masai Mara"],
+        "answer": "Masai Mara",
+        "difficulty": "easy"
+    },
+    {
+        "id": 48,
+        "question": "What is the traditional dance of the Maasai people called?",
+        "options": ["Adumu", "Samba", "Ballet", "Tango"],
+        "answer": "Adumu",
+        "difficulty": "hard"
+    },
+    {
+        "id": 49,
+        "question": "Which fruit is Kenya known for producing?",
+        "options": ["Apple", "Mango", "Pineapple", "Avocado"],
+        "answer": "Avocado",
+        "difficulty": "easy"
+    },
+    {
+        "id": 50,
+        "question": "Which famous wildlife reserve is located in Kenya?",
+        "options": ["Kruger National Park", "Serengeti National Park", "Nairobi National Park", "Yellowstone National Park"],
+        "answer": "Nairobi National Park",
+        "difficulty": "hard"
+    },
+    {
+        "id": 51,
+        "question": "Which is the highest mountain in Kenya?",
+        "options": ["Mount Kenya", "Mount Kilimanjaro", "Mount Elgon", "Mount Meru"],
+        "answer": "Mount Kenya",
+        "difficulty": "easy"
+    },
+    {
+        "id": 52,
+        "question": "What is the largest lake in Kenya?",
+        "options": ["Lake Victoria", "Lake Nakuru", "Lake Turkana", "Lake Baringo"],
+        "answer": "Lake Victoria",
+        "difficulty": "easy"
+    },
+    {
+        "id": 53,
+        "question": "What festival celebrates the Kenyan Maasai culture?",
+        "options": ["Lamu Festival", "Maasai Mara Festival", "Kisumu Carnival", "Kakamega Festival"],
+        "answer": "Lamu Festival",
+        "difficulty": "hard"
+    },
+    {
+        "id": 54,
+        "question": "What popular Kenyan dish is made from maize flour?",
+        "options": ["Uji", "Ugali", "Nyama Choma", "Samosa"],
+        "answer": "Ugali",
+        "difficulty": "easy"
+    },
+    {
+        "id": 55,
+        "question": "Which sport is most popular in Kenya?",
+        "options": ["Football", "Cricket", "Rugby", "Athletics"],
+        "answer": "Athletics",
+        "difficulty": "easy"
+    },
+    {
+        "id": 56,
+        "question": "What is the largest ethnic group in Kenya?",
+        "options": ["Kikuyu", "Luhya", "Luo", "Kalenjin"],
+        "answer": "Kikuyu",
+        "difficulty": "easy"
+    },
+    {
+        "id": 57,
+        "question": "Which event does Jamhuri Day celebrate in Kenya?",
+        "options": ["Independence", "Republic", "Labor Day", "National Heroes"],
+        "answer": "Republic",
+        "difficulty": "easy"
+    },
+    {
+        "id": 58,
+        "question": "What is the primary language spoken in Nairobi?",
+        "options": ["Swahili", "Kikuyu", "English", "Luo"],
+        "answer": "Swahili",
+        "difficulty": "easy"
+    },
+    {
+        "id": 59,
+        "question": "Which of the following is a popular Kenyan beverage?",
+        "options": ["Chai", "Coffee", "Juice", "Soda"],
+        "answer": "Chai",
+        "difficulty": "easy"
+    },
+    {
+        "id": 60,
+        "question": "Which animal is known as the 'big five' in Kenya?",
+        "options": ["Giraffe", "Buffalo", "Zebra", "Wildebeest"],
+        "answer": "Buffalo",
+        "difficulty": "easy"
+    },
+    {
+        "id": 61,
+        "question": "What is the name of the famous Kenyan marathon held annually?",
+        "options": ["Nairobi Marathon", "London Marathon", "Boston Marathon", "Tokyo Marathon"],
+        "answer": "Nairobi Marathon",
+        "difficulty": "easy"
+    },
+    {
+        "id": 62,
+        "question": "Which coastal city is known for its beaches and historical sites in Kenya?",
+        "options": ["Malindi", "Mombasa", "Lamu", "Kisumu"],
+        "answer": "Mombasa",
+        "difficulty": "easy"
+    },
+    {
+        "id": 63,
+        "question": "What traditional Maasai clothing is known for its bright colors?",
+        "options": ["Kanga", "Shuka", "Kikoi", "Kofia"],
+        "answer": "Shuka",
+        "difficulty": "easy"
+    },
+    {
+        "id": 63,
+        "question": "What traditional Maasai clothing is known for its bright colors?",
+        "options": ["Kanga", "Shuka", "Kikoi", "Kofia"],
+        "answer": "Shuka",
+        "difficulty": "easy"
+    },
+    {
+        "id": 64,
+        "question": "When is Jamhuri Day celebrated in Kenya?",
+        "options": ["January 1", "December 12", "October 20", "June 1"],
+        "answer": "December 12",
+        "difficulty": "easy"
+    },
+    {
+        "id": 65,
+        "question": "What is celebrated on Madaraka Day?",
+        "options": ["Independence Day", "Madaraka Day", "Labour Day", "Heroes Day"],
+        "answer": "Kenya's attainment of internal self-rule",
+        "difficulty": "easy"
+    },
+    {
+        "id": 66,
+        "question": "Which Kenyan holiday is marked on October 10th?",
+        "options": ["Huduma Day", "Mashujaa Day", "Jamhuri Day", "Labour Day"],
+        "answer": "Huduma Day",
+        "difficulty": "medium"
+    },
+    {
+        "id": 67,
+        "question": "What was Huduma Day formerly known as?",
+        "options": ["Kenya Day", "Huduma Day", "Moi Day", "Heroes Day"],
+        "answer": "Moi Day",
+        "difficulty": "medium"
+    },
+    {
+        "id": 68,
+        "question": "When is Mashujaa Day celebrated in Kenya?",
+        "options": ["September 30", "October 20", "December 12", "June 1"],
+        "answer": "October 20",
+        "difficulty": "easy"
+    },
+    {
+        "id": 69,
+        "question": "Which event is commemorated on Mashujaa Day?",
+        "options": ["Independence Day", "Heroes Day", "Mashujaa Day", "Labour Day"],
+        "answer": "Honoring Kenyan heroes and heroines",
+        "difficulty": "medium"
+    },
+    {
+        "id": 70,
+        "question": "Which holiday marks Kenya's independence from British colonial rule?",
+        "options": ["Labour Day", "Jamhuri Day", "Mashujaa Day", "Madaraka Day"],
+        "answer": "Jamhuri Day",
+        "difficulty": "easy"
+    },
+    {
+        "id": 71,
+        "question": "Which holiday marks the official public celebration of the New Year in Kenya?",
+        "options": ["Christmas Day", "New Year's Day", "Easter Monday", "Madaraka Day"],
+        "answer": "New Year's Day",
+        "difficulty": "easy"
+    },
+    {
+        "id": 72,
+        "question": "Which Kenyan national holiday is observed on December 25th?",
+        "options": ["New Year's Day", "Easter Monday", "Christmas Day", "Mashujaa Day"],
+        "answer": "Christmas Day",
+        "difficulty": "easy"
+    },
+    {
+        "id": 73,
+        "question": "Which public holiday in Kenya follows Christmas Day?",
+        "options": ["New Year's Day", "Boxing Day", "Easter Monday", "Mashujaa Day"],
+        "answer": "Boxing Day",
+        "difficulty": "easy"
+    },
+    {
+        "id": 74,
+        "question": "What is 200 - 75?",
+        "options": ["125", "135", "145", "150"],
+        "answer": "125",
+        "difficulty": "hard"
+    },
+    {
+        "id": 75,
+        "question": "What is 20% of Ksh 120?",
+        "options": ["Ksh 20", "Ksh 30", "Ksh 25", "Ksh 24"],
+        "answer": "Ksh 24",
+        "difficulty": "hard"
+    },
+    {
+        "id": 76,
+        "question": "What is Ksh 80 divided by 4?",
+        "options": ["Ksh 15", "Ksh 20", "Ksh 25", "Ksh 30"],
+        "answer": "Ksh 20",
+        "difficulty": "easy"
+    },
+    {
+        "id": 77,
+        "question": "If you have Ksh 300 and spend Ksh 90, how much is left?",
+        "options": ["Ksh 200", "Ksh 210", "Ksh 220", "Ksh 230"],
+        "answer": "Ksh 210",
+        "difficulty": "hard"
+    },
+    {
+        "id": 78,
+        "question": "What is Ksh 55 plus Ksh 25?",
+        "options": ["Ksh 70", "Ksh 80", "Ksh 90", "Ksh 100"],
+        "answer": "Ksh 80",
+        "difficulty": "easy"
+    },
+    {
+        "id": 79,
+        "question": "What is Ksh 540 divided by Ksh 9?",
+        "options": ["Ksh 50", "Ksh 60", "Ksh 70", "Ksh 80"],
+        "answer": "Ksh 60",
+        "difficulty": "hard"
+    },
+    {
+        "id": 80,
+        "question": "If you buy 3 items for Ksh 120 each, how much do you spend?",
+        "options": ["Ksh 360", "Ksh 320", "Ksh 380", "Ksh 300"],
+        "answer": "Ksh 360",
+        "difficulty": "hard"
+    },
+    {
+        "id": 81,
+        "question": "What is Ksh 1000 minus Ksh 250 plus Ksh 100?",
+        "options": ["Ksh 850", "Ksh 900", "Ksh 950", "Ksh 750"],
+        "answer": "Ksh 850",
+        "difficulty": "hard"
+    },
+    {
+        "id": 82,
+        "question": "If a product costs Ksh 240 and you buy 2, how much do you spend?",
+        "options": ["Ksh 480", "Ksh 500", "Ksh 450", "Ksh 490"],
+        "answer": "Ksh 480",
+        "difficulty": "hard"
+    },
+    {
+        "id": 83,
+        "question": "What is 30% of Ksh 600?",
+        "options": ["Ksh 150", "Ksh 160", "Ksh 170", "Ksh 180"],
+        "answer": "Ksh 180",
+        "difficulty": "hard"
+    },
+    {
+        "id": 84,
+        "question": "What is 550 divided by 2?",
+        "options": ["Ksh 275", "Ksh 300", "Ksh 250", "Ksh 350"],
+        "answer": "Ksh 275",
+        "difficulty": "easy"
+    },
+    {
+        "id": 95,
+        "question": "What color do you get by mixing red and white?",
+        "options": ["Pink", "Purple", "Orange", "Maroon"],
+        "answer": "Pink",
+        "difficulty": "easy"
+    },
+    {
+        "id": 96,
+        "question": "What is the color of a clear sky on a sunny day?",
+        "options": ["Blue", "White", "Grey", "Green"],
+        "answer": "Blue",
+        "difficulty": "easy"
+    },
+    {
+        "id": 97,
+        "question": "Which color is NOT in the rainbow?",
+        "options": ["Indigo", "Violet", "Pink", "Yellow"],
+        "answer": "Pink",
+        "difficulty": "easy"
+    },
+    {
+        "id": 98,
+        "question": "What color do you see when you mix blue and yellow?",
+        "options": ["Green", "Orange", "Brown", "Purple"],
+        "answer": "Green",
+        "difficulty": "easy"
+    },
+    {
+        "id": 99,
+        "question": "What color is associated with danger or warning?",
+        "options": ["Red", "Blue", "Green", "White"],
+        "answer": "Red",
+        "difficulty": "easy"
+    },
+    {
+        "id": 100,
+        "question": "How many colors are in a standard rainbow?",
+        "options": ["6", "7", "8", "5"],
+        "answer": "7",
+        "difficulty": "easy"
+    },
+    {
+        "id": 101,
+        "question": "What color do you get by mixing red and yellow?",
+        "options": ["Orange", "Brown", "Peach", "Coral"],
+        "answer": "Orange",
+        "difficulty": "easy"
+    },
+    {
+        "id": 102,
+        "question": "What color are the leaves of most trees in summer?",
+        "options": ["Green", "Brown", "Yellow", "Red"],
+        "answer": "Green",
+        "difficulty": "easy"
+    },
+    {
+        "id": 103,
+        "question": "What is the color of the sun when drawn by children?",
+        "options": ["Yellow", "Orange", "White", "Green"],
+        "answer": "Yellow",
+        "difficulty": "easy"
+    },
+    {
+        "id": 104,
+        "question": "Which color is often used to signify tranquility?",
+        "options": ["Blue", "Red", "Yellow", "Orange"],
+        "answer": "Blue",
+        "difficulty": "easy"
+    },
+    
+    {
+        "id": 105,
+        "question": "What is the primary material used to make glass?",
+        "options": ["Wood", "Clay", "Sand", "Metal"],
+        "answer": "Sand",
+        "difficulty": "easy"
+    },
+    {
+        "id": 106,
+        "question": "What is the most common type of metal used in construction?",
+        "options": ["Copper", "Aluminum", "Steel", "Gold"],
+        "answer": "Steel",
+        "difficulty": "hard"
+    },
+    {
+        "id": 107,
+        "question": "Which material is known for its insulating properties in electronics?",
+        "options": ["Rubber", "Glass", "Plastic", "Copper"],
+        "answer": "Plastic",
+        "difficulty": "easy"
+    },
+    {
+        "id": 108,
+        "question": "What is the main ingredient in cement?",
+        "options": ["Lime", "Clay", "Sand", "Water"],
+        "answer": "Lime",
+        "difficulty": "hard"
+    },
+    {
+        "id": 109,
+        "question": "Which material is flexible and often used for sportswear?",
+        "options": ["Cotton", "Leather", "Silk", "Metal"],
+        "answer": "Cotton",
+        "difficulty": "easy"
+    },
+    {
+        "id": 110,
+        "question": "What is the most durable material used for making tools?",
+        "options": ["Plastic", "Steel", "Wood", "Glass"],
+        "answer": "Steel",
+        "difficulty": "hard"
+    },
+    {
+        "id": 111,
+        "question": "Which of these materials is commonly used for packaging?",
+        "options": ["Wood", "Plastic", "Gold", "Glass"],
+        "answer": "Plastic",
+        "difficulty": "easy"
+    },
+    {
+        "id": 112,
+        "question": "What material is known for its high melting point and used in spacecraft?",
+        "options": ["Steel", "Titanium", "Carbon", "Glass"],
+        "answer": "Titanium",
+        "difficulty": "hard"
+    },
+    {
+        "id": 113,
+        "question": "What is the primary material used in the production of textiles?",
+        "options": ["Plastic", "Cotton", "Steel", "Wood"],
+        "answer": "Cotton",
+        "difficulty": "easy"
+    },
+    {
+        "id": 114,
+        "question": "What material is used to make electrical wires?",
+        "options": ["Plastic", "Rubber", "Copper", "Wood"],
+        "answer": "Copper",
+        "difficulty": "hard"
+    },
+    {
+        "id": 115,
+        "question": "Which gadget needs to be restarted the most when it freezes?",
+        "options": ["Smartphone", "Smart TV", "Laptop", "Game console"],
+        "answer": "Laptop",
+        "difficulty": "hard"
+    },
+    {
+        "id": 116,
+        "question": "Which gadget commonly shows a blinking light when there’s no internet connection?",
+        "options": ["Router", "Wi-Fi extender", "Smartphone", "Bluetooth speaker"],
+        "answer": "Router",
+        "difficulty": "easy"
+    },
+    {
+        "id": 117,
+        "question": "Which gadget often overheats when used for a long time without breaks?",
+        "options": ["Laptop", "Tablet", "Smart TV", "Hair dryer"],
+        "answer": "Laptop",
+        "difficulty": "hard"
+    },
+    {
+        "id": 118,
+        "question": "What device do you need to charge almost every day?",
+        "options": ["Smartphone", "Electric shaver", "TV remote", "Smart speaker"],
+        "answer": "Smartphone",
+        "difficulty": "easy"
+    },
+    {
+        "id": 119,
+        "question": "Which gadget is usually silent but makes a loud noise when malfunctioning?",
+        "options": ["Fridge", "Washing machine", "Microwave", "Smartwatch"],
+        "answer": "Fridge",
+        "difficulty": "hard"
+    },
+    {
+        "id": 120,
+        "question": "Which device needs to be kept clean to avoid malfunctioning?",
+        "options": ["Computer mouse", "Washing machine", "Laptop screen", "Electric kettle"],
+        "answer": "Computer mouse",
+        "difficulty": "easy"
+    },
+    {
+        "id": 121,
+        "question": "Which gadget's screen is often prone to fingerprints?",
+        "options": ["Smartphone", "Smart TV", "Digital camera", "Laptop"],
+        "answer": "Smartphone",
+        "difficulty": "easy"
+    },
+    {
+        "id": 122,
+        "question": "What common household gadget can stop working due to overheating?",
+        "options": ["Hair dryer", "Blender", "Toaster", "Smart TV"],
+        "answer": "Hair dryer",
+        "difficulty": "hard"
+    },
+    {
+        "id": 123,
+        "question": "What device commonly needs to be cleaned with compressed air to remove dust?",
+        "options": ["Laptop keyboard", "TV remote", "Blender", "Game controller"],
+        "answer": "Laptop keyboard",
+        "difficulty": "hard"
+    },
+    {
+        "id": 124,
+        "question": "Which device needs to be plugged in to charge but can still be used while charging?",
+        "options": ["Smartphone", "Hair dryer", "Electric kettle", "Vacuum cleaner"],
+        "answer": "Smartphone",
+        "difficulty": "easy"
+    },
+    {
+        "id": 125,
+        "question": "What is 64 divided by 4?",
+        "options": ["14", "15", "16", "17"],
+        "answer": "16",
+        "difficulty": "hard"
+    },
+    {
+        "id": 126,
+        "question": "What is 225 divided by 5?",
+        "options": ["40", "45", "50", "55"],
+        "answer": "45",
+        "difficulty": "hard"
+    },
+    {
+        "id": 127,
+        "question": "What is 84 divided by 7?",
+        "options": ["11", "12", "13", "14"],
+        "answer": "12",
+        "difficulty": "easy"
+    },
+    {
+        "id": 128,
+        "question": "What is 72 divided by 8?",
+        "options": ["7", "8", "9", "10"],
+        "answer": "9",
+        "difficulty": "easy"
+    },
+    {
+        "id": 129,
+        "question": "What is 90 divided by 6?",
+        "options": ["14", "15", "16", "17"],
+        "answer": "15",
+        "difficulty": "easy"
+    },
+    {
+        "id": 130,
+        "question": "What is 360 divided by 12?",
+        "options": ["28", "30", "32", "34"],
+        "answer": "30",
+        "difficulty": "hard"
+    },
+    {
+        "id": 131,
+        "question": "What is 500 divided by 25?",
+        "options": ["18", "20", "22", "25"],
+        "answer": "20",
+        "difficulty": "hard"
+    },
+    {
+        "id": 132,
+        "question": "What is 24 divided by 3?",
+        "options": ["6", "7", "8", "9"],
+        "answer": "8",
+        "difficulty": "easy"
+    },
+    {
+        "id": 133,
+        "question": "What is 121 divided by 11?",
+        "options": ["9", "10", "11", "12"],
+        "answer": "11",
+        "difficulty": "easy"
+    },
+    {
+        "id": 134,
+        "question": "What is 80 divided by 4?",
+        "options": ["15", "20", "25", "30"],
+        "answer": "20",
+        "difficulty": "easy"
+    },
+
+        {
+            "id": 135,
+            "question": "Which singer is known for the hit song 'Shape of You'?",
+            "options": ["Ed Sheeran", "Drake", "Burna Boy", "Alan Walker"],
+            "answer": "Ed Sheeran",
+            "difficulty": "easy"
+        },
+        {
+            "id": 136,
+            "question": "Who performed the song 'God's Plan'?",
+            "options": ["Central Cee", "Drake", "Pop Smoke", "Burna Boy"],
+            "answer": "Drake",
+            "difficulty": "easy"
+        },
+        {
+            "id": 137,
+            "question": "What song features the lyrics 'I'm in love with the...'?",
+            "options": ["Perfect", "Shape of You", "Bad Habits", "Castle on the Hill"],
+            "answer": "Shape of You",
+            "difficulty": "hard"
+        },
+        {
+            "id": 138,
+            "question": "Which artist is known for the collaboration 'Commitment Issues'?",
+            "options": ["Burna Boy", "Drake", "Central Cee", "Ed Sheeran"],
+            "answer": "Central Cee",
+            "difficulty": "easy"
+        },
+        {
+            "id": 139,
+            "question": "Who is famous for the posthumous song 'Dior'?",
+            "options": ["Pop Smoke", "Burna Boy", "Drake", "Ed Sheeran"],
+            "answer": "Pop Smoke",
+            "difficulty": "easy"
+        },
+        {
+            "id": 140,
+            "question": "What genre is Alan Walker primarily known for?",
+            "options": ["Pop", "R&Bs", "EDM", "Rock"],
+            "answer": "EDM",
+            "difficulty": "easy"
+        },
+        {
+            "id": 141,
+            "question": "Which artist had a hit with the song 'On The Low'?",
+            "options": ["Burna Boy", "Central Cee", "Drake", "Pop Smoke"],
+            "answer": "Burna Boy",
+            "difficulty": "easy"
+        },
+        {
+            "id": 142,
+            "question": "What is the title of Drake's album released in 2021?",
+            "options": ["Certified Lover Boy", "Take Care", "Nothing Was the Same", "Views"],
+            "answer": "Certified Lover Boy",
+            "difficulty": "hard"
+        },
+        {
+            "id": 143,
+            "question": "Who collaborated with Justin Bieber on the song 'Despacito' remix?",
+            "options": ["Drake", "Burna Boy", "Alan Walker", "Luis Fonsi"],
+            "answer": "Luis Fonsi",
+            "difficulty": "hard"
+        },
+        {
+            "id": 144,
+            "question": "Which artist is known for their unique music video style featuring a narrative?",
+            "options": ["Pop Smoke", "Alan Walker", "Central Cee", "Burna Boy"],
+            "answer": "Alan Walker",
+            "difficulty": "easy"
+        },
+        {
+            "id": 145,
+            "question": "What animal is known as the king of the jungle?",
+            "options": ["Lion", "Tiger", "Elephant", "Giraffe"],
+            "answer": "Lion",
+            "difficulty": "easy"
+        },
+        {
+            "id": 146,
+            "question": "Which species of animal is considered the largest on land?",
+            "options": ["Elephant", "Hippopotamus", "Giraffe", "Rhino"],
+            "answer": "Elephant",
+            "difficulty": "easy"
+        },
+        {
+            "id": 147,
+            "question": "What is the primary threat to the survival of orangutans?",
+            "options": ["Hunting", "Deforestation", "Climate change", "Pollution"],
+            "answer": "Deforestation",
+            "difficulty": "hard"
+        },
+        {
+            "id": 148,
+            "question": "Which bird is known for its ability to mimic sounds?",
+            "options": ["Canary", "Parrot", "Sparrow", "Dove"],
+            "answer": "Parrot",
+            "difficulty": "easy"
+        },
+        {
+            "id": 149,
+            "question": "What is the main reason for the decline of bee populations worldwide?",
+            "options": ["Climate change", "Pesticides", "Loss of habitat", "All of the above"],
+            "answer": "All of the above",
+            "difficulty": "hard"
+        },
+        {
+            "id": 150,
+            "question": "Which animal is known for its unique black and white coloration?",
+            "options": ["Zebra", "Panda", "Skunk", "Dalmation"],
+            "answer": "Panda",
+            "difficulty": "easy"
+        },
+        {
+            "id": 151,
+            "question": "What is the world's largest land carnivore?",
+            "options": ["Polar Bear", "Grizzly Bear", "Tiger", "African Lion"],
+            "answer": "Polar Bear",
+            "difficulty": "hard"
+        },
+        {
+            "id": 152,
+            "question": "Which virus caused the COVID-19 pandemic?",
+            "options": ["SARS-CoV-2", "H1N1", "Ebola", "Zika"],
+            "answer": "SARS-CoV-2",
+            "difficulty": "easy"
+        },
+        {
+            "id": 153,
+            "question": "What is a common symptom of COVID-19?",
+            "options": ["Itchy eyes", "Cough", "Skin rash", "Nausea"],
+            "answer": "Cough",
+            "difficulty": "easy"
+        },
+        {
+            "id": 154,
+            "question": "What was the primary mode of transmission for COVID-19?",
+            "options": ["Airborne droplets", "Direct contact", "Foodborne", "Waterborne"],
+            "answer": "Airborne droplets",
+            "difficulty": "hard"
+        },
+        {
+            "id": 155,
+            "question": "Which of the following measures is effective in preventing COVID-19 spread?",
+            "options": ["Wearing masks", "Social distancing", "Hand hygiene", "All of the above"],
+            "answer": "All of the above",
+            "difficulty": "easy"
+        },
+        {
+            "id": 156,
+            "question": "What type of vaccine was primarily used against COVID-19?",
+            "options": ["mRNA", "Live-attenuated", "Inactivated", "Vector"],
+            "answer": "mRNA",
+            "difficulty": "hard"
+        },
+        {
+            "id": 157,
+            "question": "What year did the COVID-19 pandemic begin?",
+            "options": ["2018", "2019", "2020", "2021"],
+            "answer": "2019",
+            "difficulty": "easy"
+        },
+        {
+            "id": 158,
+            "question": "Which country was the first to report COVID-19 cases?",
+            "options": ["Italy", "China", "United States", "Spain"],
+            "answer": "China",
+            "difficulty": "hard"
+        },
+        {
+            "id": 159,
+            "question": "What term is used to describe the COVID-19 variants that spread more easily?",
+            "options": ["Endemic", "Mutant", "Vaccine-resistant", "Super-spreader"],
+            "answer": "Mutant",
+            "difficulty": "hard"
+        },
+        {
+            "id": 160,
+            "question": "What was a significant impact of the COVID-19 pandemic on education?",
+            "options": ["Increased attendance", "Online learning", "Decreased enrollment", "No impact"],
+            "answer": "Online learning",
+            "difficulty": "easy"
+        },
+        
+    
+        {
+            "id": 160,
+            "question": "What is the only country in the world where the giraffe population is endangered?",
+            "options": ["Kenya", "Tanzania", "Uganda", "Botswana"],
+            "answer": "Kenya",
+            "difficulty": "hard"
+        },
+        {
+            "id": 161,
+            "question": "Which African country is home to the world's second-largest freshwater lake?",
+            "options": ["Kenya", "Uganda", "Tanzania", "Sudan"],
+            "answer": "Uganda",
+            "difficulty": "hard"
+        },
+        {
+            "id": 162,
+            "question": "Which animal is a symbol of the Kenyan coat of arms?",
+            "options": ["Lion", "Elephant", "Buffalo", "Giraffe"],
+            "answer": "Lion",
+            "difficulty": "hard"
+        },
+        {
+            "id": 163,
+            "question": "In which national park would you find the 'Big Five'?",
+            "options": ["Nairobi National Park", "Masai Mara", "Tsavo", "Amboseli"],
+            "answer": "Masai Mara",
+            "difficulty": "hard"
+        },
+        {
+            "id": 164,
+            "question": "What is the longest river in Kenya?",
+            "options": ["Tana River", "Athi River", "Ewaso Ng'iro", "Nile River"],
+            "answer": "Tana River",
+            "difficulty": "hard"
+        },
+        {
+            "id": 165,
+            "question": "Which is the only country that does not have any desert in its territory?",
+            "options": ["Kenya", "Uganda", "Rwanda", "Burundi"],
+            "answer": "Kenya",
+            "difficulty": "hard"
+        },
+        {
+            "id": 166,
+            "question": "What is the national animal of Kenya?",
+            "options": ["Lion", "Eagle", "Elephant", "Buffalo"],
+            "answer": "Lion",
+            "difficulty": "hard"
+        },
+        {
+            "id": 167,
+            "question": "Which Kenyan city is known as the 'Green City in the Sun'?",
+            "options": ["Nairobi", "Mombasa", "Kisumu", "Nakuru"],
+            "answer": "Nairobi",
+            "difficulty": "hard"
+        },
+        {
+            "id": 168,
+            "question": "What is the main type of tree found in the African savanna?",
+            "options": ["Acacia", "Baobab", "Cypress", "Palm"],
+            "answer": "Acacia",
+            "difficulty": "hard"
+        },
+        {
+            "id": 169,
+            "question": "Which bird is known for its ability to mimic sounds and human speech?",
+            "options": ["Parrot", "Sparrow", "Finch", "Pigeon"],
+            "answer": "Parrot",
+            "difficulty": "hard"
+        }, 
+        {
+            "id": 170,
+            "question": "What number comes next in the sequence: 1, 4, 9, 16, ...?",
+            "options": ["25", "20", "30", "22"],
+            "answer": "25",
+            "difficulty": "hard"
+        },
+        {
+            "id": 171,
+            "question": "If a rooster lays an egg on top of a barn, which way does it roll?",
+            "options": ["Left", "Right", "Roosters don't lay eggs", "Straight down"],
+            "answer": "Roosters don't lay eggs",
+            "difficulty": "hard"
+        },
+        {
+            "id": 172,
+            "question": "How many months have 28 days?",
+            "options": ["1", "12", "2", "6"],
+            "answer": "12",
+            "difficulty": "hard"
+        },
+        {
+            "id": 173,
+            "question": "Which weighs more: a pound of feathers or a pound of rocks?",
+            "options": ["Feathers", "Rocks", "Both weigh the same", "Depends on the size"],
+            "answer": "Both weigh the same",
+            "difficulty": "hard"
+        },
+        {
+            "id": 174,
+            "question": "If you have three apples and you take away two, how many do you have?",
+            "options": ["1", "3", "2", "None"],
+            "answer": "2",
+            "difficulty": "hard"
+        },
+        {
+            "id": 175,
+            "question": "What has keys but can't open locks?",
+            "options": ["Piano", "Map", "Computer", "Book"],
+            "answer": "Piano",
+            "difficulty": "hard"
+        },
+        {
+            "id": 176,
+            "question": "What is full of holes but still holds water?",
+            "options": ["Sponge", "Bucket", "Net", "Cup"],
+            "answer": "Sponge",
+            "difficulty": "hard"
+        },
+        {
+            "id": 177,
+            "question": "If an electric train is traveling south, which way is the smoke going?",
+            "options": ["North", "South", "East", "There is no smoke"],
+            "answer": "There is no smoke",
+            "difficulty": "hard"
+        },
+        {
+            "id": 178,
+            "question": "What can travel around the world while staying in a corner?",
+            "options": ["Letter", "Phone", "Plane", "Clock"],
+            "answer": "Letter",
+            "difficulty": "hard"
+        },
+        {
+            "id": 179,
+            "question": "If two's company and three's a crowd, what are four and five?",
+            "options": ["Nine", "A group", "Eleven", "A party"],
+            "answer": "Nine",
+            "difficulty": "hard"
+        },
+        {
+            "id": 180,
+            "question": "What is always in front of you but can’t be seen?",
+            "options": ["Future", "Air", "Thoughts", "Light"],
+            "answer": "Future",
+            "difficulty": "hard"
+        },
+        {
+            "id": 181,
+            "question": "What can you catch but not throw?",
+            "options": ["Cold", "Ball", "Fish", "Shadow"],
+            "answer": "Cold",
+            "difficulty": "hard"
+        },
+        {
+            "id": 182,
+            "question": "If you drop a yellow hat in the Red Sea, what does it become?",
+            "options": ["Wet", "Lost", "Blue", "Salty"],
+            "answer": "Wet",
+            "difficulty": "hard"
+        },
+        {
+            "id": 183,
+            "question": "What has to be broken before you can use it?",
+            "options": ["Egg", "Glass", "Promise", "Seal"],
+            "answer": "Egg",
+            "difficulty": "hard"
+        },
+        {
+            "id": 184,
+            "question": "If you have a bowl with six apples and you take away four, how many do you have?",
+            "options": ["2", "4", "6", "None"],
+            "answer": "4",
+            "difficulty": "hard"
+        },
+        {
+            "id": 185,
+            "question": "What goes up but never comes down?",
+            "options": ["Age", "Smoke", "Balloon", "Temperature"],
+            "answer": "Age",
+            "difficulty": "hard"
+        },
+        {
+            "id": 186,
+            "question": "What begins with T, ends with T, and has T in it?",
+            "options": ["Teapot", "Tent", "Time", "Toast"],
+            "answer": "Teapot",
+            "difficulty": "hard"
+        },
+        {
+            "id": 187,
+            "question": "What has a heart that doesn’t beat?",
+            "options": ["Artichoke", "Tree", "Rock", "Pumpkin"],
+            "answer": "Artichoke",
+            "difficulty": "hard"
+        },
+        {
+            "id": 188,
+            "question": "If a plane crashes on the border of the United States and Canada, where do they bury the survivors?",
+            "options": ["USA", "Canada", "Both", "Nowhere"],
+            "answer": "Nowhere",
+            "difficulty": "hard"
+        },
+        {
+            "id": 189,
+            "question": "What begins with an E and only contains one letter?",
+            "options": ["Envelope", "Eagle", "Egg", "Eel"],
+            "answer": "Envelope",
+            "difficulty": "hard"
+        },
+        {
+            "id": 190,
+            "question": "Which word in the dictionary is always spelled incorrectly?",
+            "options": ["Incorrectly", "Misspelled", "Wrongly", "Uncorrected"],
+            "answer": "Incorrectly",
+            "difficulty": "hard"
+        },
+        {
+            "id": 191,
+            "question": "What is so fragile that saying its name breaks it?",
+            "options": ["Silence", "Glass", "Promise", "Ice"],
+            "answer": "Silence",
+            "difficulty": "hard"
+        },
+        {
+            "id": 192,
+            "question": "What can be seen in the middle of March and April but not in May?",
+            "options": ["R", "A", "C", "M"],
+            "answer": "R",
+            "difficulty": "hard"
+        },
+        {
+            "id": 193,
+            "question": "Which word becomes shorter when you add two letters to it?",
+            "options": ["Long", "Short", "Thin", "High"],
+            "answer": "Short",
+            "difficulty": "hard"
+        },
+        {
+            "id": 194,
+            "question": "What is it that you can keep after giving to someone?",
+            "options": ["Promise", "Secret", "Thought", "Love"],
+            "answer": "Promise",
+            "difficulty": "hard"
+        },
+        {
+            "id": 195,
+            "question": "If you speak to a wall, will it ever reply?",
+            "options": ["Yes", "No", "Sometimes", "Only in echo"],
+            "answer": "No",
+            "difficulty": "hard"
+        },
+        {
+            "id": 196,
+            "question": "What has one eye but cannot see?",
+            "options": ["Needle", "Storm", "Potato", "Blind"],
+            "answer": "Needle",
+            "difficulty": "hard"
+        },
+        {
+            "id": 197,
+            "question": "What gets wetter the more it dries?",
+            "options": ["Towel", "Sponge", "Paper", "Air"],
+            "answer": "Towel",
+            "difficulty": "hard"
+        },
+        {
+            "id": 198,
+            "question": "What can fill a room but takes up no space?",
+            "options": ["Light", "Air", "Sound", "Ideas"],
+            "answer": "Light",
+            "difficulty": "hard"
+        },
+        {
+            "id": 199,
+            "question": "What has cities, but no houses; forests, but no trees; and rivers, but no water?",
+            "options": ["Map", "Dream", "Fantasy", "Illusion"],
+            "answer": "Map",
+            "difficulty": "hard"
+        },
+        {
+            "id": 200,
+            "question": "What has keys but can’t open locks?",
+            "options": ["Map", "Piano", "Keyboard", "Computer"],
+            "answer": "Piano",
+            "difficulty": "hard"
+        },
+        {
+            "id": 201,
+            "question": "What can travel around the world while staying in a corner?",
+            "options": ["Stamp", "Map", "Shadow", "Letter"],
+            "answer": "Stamp",
+            "difficulty": "hard"
+        },
+        {
+            "id": 202,
+            "question": "What is full of holes but still holds water?",
+            "options": ["Sponge", "Net", "Bucket", "Cloth"],
+            "answer": "Sponge",
+            "difficulty": "hard"
+        },
+        {
+            "id": 203,
+            "question": "What has many teeth but cannot bite?",
+            "options": ["Comb", "Saw", "Bicycle", "Lock"],
+            "answer": "Comb",
+            "difficulty": "hard"
+        },
+        {
+            "id": 204,
+            "question": "Which is heavier, a ton of feathers or a ton of bricks?",
+            "options": ["Feathers", "Bricks", "Both are equal", "Depends on the size"],
+            "answer": "Both are equal",
+            "difficulty": "hard"
+        },
+        {
+            "id": 205,
+            "question": "What is always coming but never arrives?",
+            "options": ["Tomorrow", "Future", "Time", "Next Year"],
+            "answer": "Tomorrow",
+            "difficulty": "hard"
+        },
+        {
+            "id": 206,
+            "question": "What can you hold without touching it?",
+            "options": ["Breath", "Memory", "Love", "Idea"],
+            "answer": "Breath",
+            "difficulty": "hard"
+        },
+        {
+            "id": 207,
+            "question": "What gets broken without being held?",
+            "options": ["Promise", "Glass", "Silence", "Heart"],
+            "answer": "Promise",
+            "difficulty": "hard"
+        },
+        {
+            "id": 208,
+            "question": "What has hands but cannot clap?",
+            "options": ["Clock", "Robot", "Puppet", "Person"],
+            "answer": "Clock",
+            "difficulty": "hard"
+        },
+        {
+            "id": 209,
+            "question": "What can run but never walks?",
+            "options": ["River", "Car", "Animal", "Clock"],
+            "answer": "River",
+            "difficulty": "hard"
+        },
+        {
+            "id": 210,
+            "question": "What can fill a cup but never overflows?",
+            "options": ["Air", "Water", "Light", "Sound"],
+            "answer": "Air",
+            "difficulty": "hard"
+        },
+        {
+            "id": 211,
+            "question": "What goes up and down but doesn’t move?",
+            "options": ["Stairs", "Temperature", "Age", "Weight"],
+            "answer": "Stairs",
+            "difficulty": "hard"
+        },
+        {
+            "id": 212,
+            "question": "What is so light that a feather can weigh it down?",
+            "options": ["Nothing", "Thought", "Air", "Dream"],
+            "answer": "Nothing",
+            "difficulty": "hard"
+        },
+        {
+            "id": 213,
+            "question": "What has a neck but no head?",
+            "options": ["Bottle", "Shirt", "Glass", "Tree"],
+            "answer": "Bottle",
+            "difficulty": "hard"
+        },
+        {
+            "id": 214,
+            "question": "What can be broken but never held?",
+            "options": ["Heart", "Promise", "Silence", "Trust"],
+            "answer": "Promise",
+            "difficulty": "hard"
+        },
+        {
+            "id": 215,
+            "question": "What begins with an 'e' but only contains one letter?",
+            "options": ["Envelope", "Eye", "Eagle", "Eel"],
+            "answer": "Envelope",
+            "difficulty": "hard"
+        },
+        {
+            "id": 216,
+            "question": "What runs around the yard without moving?",
+            "options": ["Fence", "Shadow", "Dog", "Child"],
+            "answer": "Fence",
+            "difficulty": "hard"
+        },
+        {
+            "id": 217,
+            "question": "If a rooster lays an egg on the top of a barn, which way will it roll?",
+            "options": ["Left", "Right", "Down", "Roosters don’t lay eggs"],
+            "answer": "Roosters don’t lay eggs",
+            "difficulty": "hard"
+        },
+        {
+            "id": 218,
+            "question": "If a cat has nine lives, how many lives do three cats have?",
+            "options": ["27", "9", "3", "1"],
+            "answer": "27",
+            "difficulty": "hard"
+        },
+        {
+            "id": 219,
+            "question": "What gets sharper the more you use it?",
+            "options": ["Brain", "Knife", "Pencil", "Sword"],
+            "answer": "Brain",
+            "difficulty": "hard"
+        },
+        {
+            "id": 220,
+            "question": "What is easy to get into but hard to get out of?",
+            "options": ["Trouble", "Debt", "Bed", "Argument"],
+            "answer": "Trouble",
+            "difficulty": "hard"
+        },
+        {
+            "id": 221,
+            "question": "What comes down but never goes up?",
+            "options": ["Rain", "Age", "Temperature", "Debt"],
+            "answer": "Rain",
+            "difficulty": "hard"
+        },
+        {
+            "id": 222,
+            "question": "What has a bed but never sleeps?",
+            "options": ["River", "Dream", "Cloud", "Forest"],
+            "answer": "River",
+            "difficulty": "hard"
+        },
+        {
+            "id": 223,
+            "question": "What begins with T and ends with T and has T in it?",
+            "options": ["Teapot", "Tent", "Time", "Toast"],
+            "answer": "Teapot",
+            "difficulty": "hard"
+        },
+        {
+            "id": 224,
+            "question": "What has an eye but cannot see?",
+            "options": ["Needle", "Storm", "Potato", "Blind"],
+            "answer": "Needle",
+            "difficulty": "hard"
+        },
+        {
+            "id": 225,
+            "question": "What has keys but can't open locks?",
+            "options": ["Map", "Piano", "Keyboard", "Computer"],
+            "answer": "Piano",
+            "difficulty": "hard"
+        },
+        {
+            "id": 226,
+            "question": "What begins with a P, ends with an E, and has thousands of letters?",
+            "options": ["Post Office", "Page", "People", "Phone"],
+            "answer": "Post Office",
+            "difficulty": "hard"
+        },
+        {
+            "id": 227,
+            "question": "What gets bigger the more you take away?",
+            "options": ["Hole", "Basket", "Pocket", "Shadow"],
+            "answer": "Hole",
+            "difficulty": "hard"
+        },
+        {
+            "id": 228,
+            "question": "What can you keep after giving to someone?",
+            "options": ["Secret", "Promise", "Love", "Hope"],
+            "answer": "Promise",
+            "difficulty": "hard"
+        },
+        {
+            "id": 229,
+            "question": "What can run but never walks?",
+            "options": ["River", "Clock", "Animal", "Dream"],
+            "answer": "River",
+            "difficulty": "hard"
+        },
+        {
+            "id": 230,
+            "question": "What is black when it’s clean and white when it’s dirty?",
+            "options": ["Board", "Paper", "Cloud", "Dog"],
+            "answer": "Board",
+            "difficulty": "hard"
+        },
+        {
+            "id": 231,
+            "question": "What goes up and down but stays in the same place?",
+            "options": ["Stairs", "Temperature", "Weight", "Pendulum"],
+            "answer": "Stairs",
+            "difficulty": "hard"
+        },
+        {
+            "id": 232,
+            "question": "If you throw a red stone into the blue sea, what will it become?",
+            "options": ["Wet", "Lost", "Sandy", "Nothing"],
+            "answer": "Wet",
+            "difficulty": "hard"
+        },
+        {
+            "id": 233,
+            "question": "What has ears but cannot hear?",
+            "options": ["Corn", "Dog", "Potato", "Tree"],
+            "answer": "Corn",
+            "difficulty": "hard"
+        },
+        {
+            "id": 234,
+            "question": "What can you catch but not throw?",
+            "options": ["Cold", "Ball", "Fish", "Shadow"],
+            "answer": "Cold",
+            "difficulty": "hard"
+        }
+        
+        
+        
+        
+    
+
+    
+    
+]
